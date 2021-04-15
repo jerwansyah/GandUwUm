@@ -1,4 +1,4 @@
-# Tugas Besar 1 IF2211 Probabilitas dan Statistika
+# Tugas Besar 1 IF2220 Probabilitas dan Statistika
 
 ## Author
 NIM | Nama
